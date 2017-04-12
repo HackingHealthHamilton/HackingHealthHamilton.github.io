@@ -1,7 +1,5 @@
 main:
     - { url: '/#', text: 'Top' }
     - { url: '/#about', text: 'About' }
-    - { url: '/#schedule', text: 'Schedule' }
-    - { url: '/#partners', text: 'Partners' }
     - { url: '/#news', text: 'News' }
     - { url: '/#contact', text: 'Contact' }
