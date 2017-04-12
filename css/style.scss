@@ -9,6 +9,7 @@ $scotch-secondary: #FF7B7B;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
+%roboto-slab { font-family: 'Roboto Slab', sans-serif; }
 
 /* Fix anchor links http://stackoverflow.com/questions/4086107/html-positionfixed-page-header-and-in-page-anchors */
 :target:before {
@@ -22,12 +23,12 @@ $scotch-secondary: #FF7B7B;
 body {
     @extend %roboto;
     font-size: 18px;
-    line-height: 30px;
+    line-height: 1.5em;
     padding-top: 51px;
     -webkit-font-smoothing: antialiased;
 }
 p {
-    margin-bottom: 30px;
+    margin-bottom: 0.5em;
 }
 section, header, footer, main, article, nav, aside { position: relative; }
 a {
@@ -41,9 +42,9 @@ a {
 .btn {
     text-transform: uppercase;
     font-weight: 400;
-    @extend %oswald;
+    @extend %roboto-slab;
 }
-h1, h2, h3, h4, h5, h6 { @extend %oswald; }
+h1, h2, h3, h4, h5, h6 { @extend %roboto-slab; }
 ::selection {
     background: #086AFF;
     color: #fff;
@@ -87,7 +88,7 @@ h1.special {
     overflow: hidden;
     margin: 0;
     text-transform: uppercase;
-    @extend %oswald;
+    @extend %roboto-slab;
     font-size: 69px;
     line-height: 69px;
     font-weight: 700;
@@ -111,6 +112,22 @@ h1.special {
 
         &:before { left: 100%; }
         &:after { right: 100%; }
+    }
+}
+
+.dummy {
+    margin-top: 150%;
+}
+.thumbnail {
+    position: absolute;
+    padding: 1em;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+
+    h2 {
+        font-size: 24px;
     }
 }
 
