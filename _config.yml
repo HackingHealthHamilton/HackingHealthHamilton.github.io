@@ -8,7 +8,9 @@ data_dir: ./_data
 
 # Handling Reading
 safe:         false
-include:      [".htaccess"]
+include:
+  - ".htaccess"
+  - "_pages"
 exclude:      []
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
@@ -21,8 +23,11 @@ future:      true
 unpublished: false
 
 # Plugins
-whitelist: []
-gems:      [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 
 # Conversion
 markdown:    kramdown
@@ -58,5 +63,3 @@ kramdown:
   entity_output:  as_char
   toc_levels:     1..6
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
-
-include: ['_pages']
