@@ -4,36 +4,12 @@ title: About
 permalink: /about/
 ---
 
-We never thought of findin' a place where we belong. Don't have to stand alone, we'll never let you fall. Don't need permission to decide what you believe. You gotta learn something when we meet you after school. I said jump, down on Jump Street. I said jump, down on Jump Street. Your friends will be there when your back is to the wall. You'll find you'll need us cause there's no one else to call. When it was hopeless a decision is what you need. You'd better be ready cause' your runnin' outta time. Say jump, 21 Jump, Street.
+# About Hacking Health Hamilton
 
-{% highlight javascript %}
-function meow() {
-    return 'meow';
-}
+Hacking Health Hamilton is a digital health innovation organization, part of a global movement of grassroots groups in more than 40 cities around the world — Canada, US, Europe, Australia, Asia, even South Africa and Tunisia.
 
-function bark() {
-    return 'woof';
-}
+We bring together three groups: health care practitioners, entrepreneurs and innovators, designers and tech developers.
 
-function getRandomAnimal() {
+We run open meetup “Cafés” regularly throughout the year, bringing in exciting healthcare innovators to tell their stories and show their work. We encourage interaction and discussion, and we run an annual hackathon in Hamilton. Our hackathon runs over a weekend and allows innovators, both neophyte and experienced, to create prototypes and compete for prizes such as valuable support from local organizations.
 
-    var animals = [
-        'cat',
-        'dog',
-        'hippo',
-        'lion',
-        'bear',
-        'zebra'
-    ];
-
-    return animals[Math.floor(Math.random()*animals.length)];
-}
-
-console.log(meow());
-console.log(bark());
-console.log(getRandomAnimal());
-{% endhighlight %}
-
-They arrived in fifty mother ships, offering their friendship and advance technology to Earth. Skeptical of the visitors, Mike Donovan and Juliet Parrish infiltrated their ranks and soon discovered some startling secrets. The resistance is all that stands between us... and the visitors.
-
-Once in every lifetime, comes a love like this. Oh I need you, you need me, oh my darling can't you see. Young Ones. Darling we're the Young Ones. Young Ones. Shouldn't be afraid. To live, love, there's a song to be sung. Cause we may not be the Young Ones very long.
+Together, we're hacking healthcare in Hamilton!
