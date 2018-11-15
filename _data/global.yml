@@ -2,7 +2,6 @@
 title: 'Hacking Health Hamilton'
 description: 'We bring together healthcare innovators in Hamilton, Ontario'
 url: 'http://hhhamilton.ca' # the base hostname & protocol for your site
-footer_text: 'Created and hosted by <a href="http://hhhamilton.ca">Hacking Health Hamilton</a>.'
 
 # Admin Settings
 admin_name: 'Hacking Health Hamilton'
