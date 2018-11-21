@@ -4,6 +4,8 @@ title: 'An interview with Arinai - 2017 hackathon winners'
 date: 2018-02-08
 categories: hackathon
 lead_text: 'Winners of the HHS/IBM Innovation Exchange prize in our 2017 Hackathon'
+redirect_from:
+  - /newsletter/InterviewWithAranai
 ---
 
 **We asked Deborah Konig, a marketing specialist at Mohawk College, to interview Nadia Ashoori, one of the team members of a winning 2017 hackathon project.**

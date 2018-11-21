@@ -4,6 +4,8 @@ title: 'October 2017 meetup announcement'
 date: 2017-10-19
 categories: meetup
 lead_text: 'Nik Počuča and Yasir Khalid'
+redirect_from:
+  - /newsletter/Meetup-Oct
 ---
 
 The first Hacking Health Hamilton Meetup of the season!

@@ -4,6 +4,8 @@ title: '2017 hackathon summary'
 date: 2017-04-30
 categories: hackathon
 lead_text: 'Info about the 2017 Hacking Health hackathon'
+redirect_from:
+  - /newsletter/Hackathon-2017
 ---
 
 - [Hackathon photo gallery](http://hhhamilton.ca/newsletter/Hackathon-2017)

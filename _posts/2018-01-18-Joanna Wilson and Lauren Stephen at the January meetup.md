@@ -4,6 +4,8 @@ title: 'Joanna Wilson and Lauren Stephen at the January meetup'
 date: 2018-01-18
 categories: meetup
 lead_text: 'Type 1 diabetes and 3D printing artificial body parts'
+redirect_from:
+  - /newsletter/Meetup-Jan
 ---
 
 We had our most successful meetup to date on Jan 18th at Innovation Factory - McMaster Innovation Park! Thank you to everyone that came out to listen to Joanna Wilson and Lauren Stephen. Innovation Factory was very gracious with giving us their fabulous space. It gave us an opportunity to mix and mingle, and some great conversations sprung up.
