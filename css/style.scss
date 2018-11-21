@@ -21,7 +21,7 @@ $scotch-secondary: #FF7B7B;
 
 
 body {
-    @extend %roboto;
+    @extend %roboto-slab;
     font-size: 18px;
     line-height: 1.5em;
     padding-top: 51px;
@@ -42,9 +42,9 @@ a {
 .btn {
     text-transform: uppercase;
     font-weight: 400;
-    @extend %roboto-slab;
+    @extend %roboto;
 }
-h1, h2, h3, h4, h5, h6 { @extend %roboto-slab; }
+h1, h2, h3, h4, h5, h6 { @extend %roboto; }
 ::selection {
     background: #086AFF;
     color: #fff;
@@ -87,10 +87,10 @@ h1.special {
     text-align: center;
     overflow: hidden;
     margin: 0;
-    text-transform: uppercase;
-    @extend %roboto-slab;
-    font-size: 69px;
-    line-height: 69px;
+    // text-transform: uppercase;
+    @extend %roboto;
+    font-size: 42px;
+    // line-height: 42px;
     font-weight: 700;
     color: $scotch-primary;
 

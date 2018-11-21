@@ -1,8 +1,8 @@
 # Site Settings
-title: 'Hacking Health Hamilton'
-description: 'We bring together healthcare innovators in Hamilton, Ontario'
-url: 'http://hhhamilton.ca' # the base hostname & protocol for your site
+title: Hacking Health Hamilton
+description: A grassroots community of healthcare innovators in Hamilton, Ontario
+url: http://hhhamilton.ca
 
 # Admin Settings
-admin_name: 'Hacking Health Hamilton'
-admin_email: 'hamilton@hackinghealth.ca'
+admin_name: Hacking Health Hamilton
+admin_email: hamilton@hackinghealth.ca

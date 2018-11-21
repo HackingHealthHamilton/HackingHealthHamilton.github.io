@@ -31,6 +31,20 @@ layout: front
     </div>
 </div>
 
+<h1 class="page-heading">Posts</h1>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <blockquote>{{ post.excerpt }}</blockquote>
+    </li>
+  {% endfor %}
+</ul>
+
 <hr class="featurette-divider">
 
 <div class="row featurette">
@@ -46,8 +60,6 @@ layout: front
     <div>
         <h2 class="featurette-heading" id="news">News</h2>
         <ul>
-            <li><a href="https://cable14now.com/video-on-demand/video/?videoId=2702">An Interview:City Matters Hacking Health (Feb 5 2018).</a></li>
-            <li><a href="https://www.eventbrite.ca/e/hacking-health-hamilton-hackthon-2018-tickets-41130549581?aff=ehomecard">Hacking Health Hackathon 2018 (Hamilton Site).</a></li>
             <li><a href="http://www.thespec.com/news-story/7202040-build-a-health-app-in-a-weekend-at-hamilton-event/">Build a health app in a weekend at Hamilton event</a>
                 - The Hamilton Spectator, Mar 22, 2017.
         </ul>

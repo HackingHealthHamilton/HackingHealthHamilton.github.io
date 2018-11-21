@@ -75,6 +75,8 @@ figure {
 
 img {
   vertical-align: middle;
+  margin-top:    $line-height-computed;
+  margin-bottom: $line-height-computed;
 }
 
 // Responsive images (ensure images don't scale beyond their parents)
