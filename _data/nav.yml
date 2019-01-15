@@ -1,3 +1,4 @@
 main:
     - { url: '/about/', text: 'About' }
     - { url: 'https://www.meetup.com/Hacking-Health-Hamilton/', text: 'HHH on Meetup' }
+    - { url: 'http://hhhamilton.ca/newsletter/', text: 'Newsletter' }
