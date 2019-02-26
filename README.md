@@ -3,8 +3,14 @@
 To run locally:
 
 ```bash
+# install gems
 bundle install
-jekyll serve --watch --safe
+
+# without draft posts:
+bundle exec jekyll serve --watch --safe
+
+# with draft posts:
+bundle exec jekyll server --drafts --watch --safe
 ```
 
 ## Based on the Bootstrap 3 Starter Theme for Jekyll
