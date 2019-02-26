@@ -3,6 +3,7 @@ layout: inner
 title: "Life after a Hackathon: Project Trajectories after 48 Hours of Hacking - announcement"
 date: 2018-11-15
 categories: meetup
+featured_image: /img/2017-hackathon/riya-kuramachi-and-paul-brown.jpg
 lead_text: 'Join us on Thursday evening, November 22 at the CoMotion on King for a chance to catch up with HHH members and enjoy two talks.'
 ---
 
