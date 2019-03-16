@@ -1,10 +1,12 @@
 ---
 layout: inner
 title: "Life after a Hackathon, Project Trajectories after 48 Hours of Hacking"
-date: 2019-11-22
+date: 2018-11-22
 categories: success_stories
 lead_text: 'Hacking Health Hamilton'
 ---
+![Lauren](/img/2018-11-22/img-11.png "CoMotion")
+{: .text-center}
 
 ### Details 
 
