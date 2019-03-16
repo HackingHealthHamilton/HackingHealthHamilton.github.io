@@ -5,7 +5,7 @@ date: 2018-11-22
 categories: success_stories
 lead_text: 'Hacking Health Hamilton'
 ---
-![Lauren](/img/2018-11-22/img-11.png "CoMotion")
+![Lauren](/img/2018-11-22/img-8.png "CoMotion")
 {: .text-center}
 
 ### Details 
