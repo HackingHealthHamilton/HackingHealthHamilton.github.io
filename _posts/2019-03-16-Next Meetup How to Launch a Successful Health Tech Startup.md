@@ -1,9 +1,9 @@
 ---
 layout: inner
-title: "How to Launch a Successful Health Tech Startup"
-date: 2019-03-20
-categories: success_stories
-lead_text: 'Hacking Health Hamilton'
+title: "Next Meetup How to Launch a Successful Health Tech Startup"
+date: 2019-03-16
+categories: Next Meetup Information
+lead_text: 'Join us on Wednesday evening, March 20 at the CoMotion on King for a chance to catch up with HHH members and enjoy two talks'
 ---
 
 ![Lauren](/img/2019-03-20/meetup_banner.png)
