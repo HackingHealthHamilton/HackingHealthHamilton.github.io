@@ -3,14 +3,14 @@ layout: inner
 title: "Next Meetup How to Launch a Successful Health Tech Startup"
 date: 2019-03-16
 categories: Next Meetup Information
-lead_text: 'Join us on Wednesday evening, March 20 at the CoMotion on King for a chance to catch up with HHH members and enjoy two talks'
+lead_text: 'Join us on Thursday evening, April 11 for a chance to catch up with HHH members and enjoy two talks. (Loation:TBD)'
 ---
 
-![Lauren](/img/2019-03-20/meetup_banner.png)
+![Lauren](/img/2019-03-20/meetupApril_banner.png)
 {: .text-center}
 
 ### Details
-On Wednesday, March 20, Hacking Health Hamilton presents How to Launch a Successful Health Tech Startup: Get advice from two health tech entrepreneurs from Toronto, an informative and interactive free meetup at [CoMotion On King](http://www.comotiongroup.ca/comotion-on-king/) in Downtown Hamilton.
+On Thursday, April 11, Hacking Health Hamilton presents How to Launch a Successful Health Tech Startup: Get advice from two health tech entrepreneurs from Toronto, an informative and interactive free meetup in Hamilton. Location to be determined.
 
 We will have founders of two health tech companies discuss their projects and their experience as healthcare entrepreneurs.
 
@@ -22,9 +22,4 @@ Prior to co-founding HealthCasa, Dr. **Karen Klein**, CEO at [HealthCasa Limited
 
 [HealthCasa](www.healthcasa.com) is the only on-demand service that allows you to book an appointment online through a LIVE, REAL-TIME appointment booking portal, with a practitioner of your choice, at the location of your choice, and on a day and time that is convenient for YOU!
 
-About the Venue
-
-[CoMotion On King](http://www.comotiongroup.ca/comotion-on-king/) is a co-working initiative and Hamilton's largest co-working space in the heart of downtown.
-![Lauren](/img/2019-03-20/comotion_on_king.png)
-
-### [Join US](https://www.meetup.com/Hacking-Health-Hamilton/events/259285201/) 
+### [Join US](https://www.meetup.com/Hacking-Health-Hamilton/events/259285201/)
