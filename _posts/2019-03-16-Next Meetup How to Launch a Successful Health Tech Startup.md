@@ -23,7 +23,7 @@ Prior to co-founding HealthCasa, Dr. **Karen Klein**, CEO at [HealthCasa Limited
 [HealthCasa](www.healthcasa.com) is the only on-demand service that allows you to book an appointment online through a LIVE, REAL-TIME appointment booking portal, with a practitioner of your choice, at the location of your choice, and on a day and time that is convenient for YOU!
 
 About the Venue:
-![Lauren](/img/2019-03-20/mohack..png)
+![CyberSecurityClubicon](/img/2019-03-20/mohack.png)
 
 [The Mohawk College Cyber Security Club](http://mohawkcsc.github.io/) was created for all Mohawk students to learn more about how to keep information and technology safe in our digital and physical lives. We invite anyone interested to join us in exploring everything technical and non-technical about cybersecurity – from how to hack websites and servers, to how to spot a phishing e-mail, the club has something for everyone.
 
