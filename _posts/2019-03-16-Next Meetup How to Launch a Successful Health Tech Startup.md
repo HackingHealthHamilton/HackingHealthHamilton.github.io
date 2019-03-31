@@ -24,6 +24,7 @@ Prior to co-founding HealthCasa, Dr. **Karen Klein**, CEO at [HealthCasa Limited
 
 About the Venue:
 ![CyberSecurityClubicon](/img/2019-03-20/mohack.png)
+{: .text-center}
 
 [The Mohawk College Cyber Security Club](http://mohawkcsc.github.io/) was created for all Mohawk students to learn more about how to keep information and technology safe in our digital and physical lives. We invite anyone interested to join us in exploring everything technical and non-technical about cybersecurity – from how to hack websites and servers, to how to spot a phishing e-mail, the club has something for everyone.
 
