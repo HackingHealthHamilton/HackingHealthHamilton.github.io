@@ -9,6 +9,8 @@ lead_text: 'Join us on Nov 8-10 for Hacking Health Hamilton Hackathon 2019'
 ![Lauren](/img/2019-04-13/hackathon2019.png)
 {: .text-center}
 
+Save your date for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10)
+
 ### Description
 Pitch ideas, form teams, get advice from experts, and build a useable solution to address the users' problems over the course of a weekend. Sunday afternoon demo your solution in front of a panel of judges for a chance of winning some fantastic prizes!
 
