@@ -5,10 +5,9 @@ date: 2019-04-13
 categories: Next Health Hackathon Information
 lead_text: 'Join us on Nov 8-10 for Hacking Health Hamilton Hackathon 2019'
 ---
-
 ![Lauren](/img/2019-04-13/hackathon2019.png)
 {: .text-center}
-###
+
 Save your date for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10).
 
 ### Description
