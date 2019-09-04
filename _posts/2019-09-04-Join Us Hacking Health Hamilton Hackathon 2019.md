@@ -19,7 +19,7 @@ Here, we want to make it easy for anyone to dream big. Hacking Health fosters co
 ### [Join US](https://www.eventbrite.ca/e/hacking-health-hamilton-hackathon-2019-tickets-60104994657)
 
 ### Sponsor this special weekend
-Each year, our sponsors help Hacking Hacking Hamilton unite emerging healthcare professionals, developers, designers, bussin, and educators. Our sponsors make it possible for participants to prensent and build something they're proud of.
+Each year, our sponsors help Hacking Hacking Hamilton unite emerging healthcare professionals, developers, designers, businessman, and educators. Our sponsors make it possible for participants to present and build something they're proud of.
 
 Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca.com">Contact us</a>
 
