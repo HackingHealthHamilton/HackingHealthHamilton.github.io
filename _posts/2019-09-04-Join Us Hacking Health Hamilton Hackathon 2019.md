@@ -5,7 +5,7 @@ date: 2019-09-04
 categories: Health Hackathon Information
 lead_text: 'Join us on Nov 8-10 at McMaster Innovation Park'
 ---
-![Lauren](/img/2019-09-04/hackathon2019_2.png)
+![Lauren](/img/2019-09-04/hackathon2019_2.png =250x)
 {: .text-center}
 
 Join us for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10).
@@ -23,7 +23,7 @@ Each year, our sponsors help Hacking Hacking Hamilton unite emerging healthcare 
 
 Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca.com">Contact us</a>
 
-![sponsor_package_2019](/img/2019-09-04/sponsor_package_2019.png)
+![sponsor_package_2019](/img/2019-09-04/sponsor_package_2019.png =250x)
 {: .text-center}
 [Sponsor Package](/img/2019-09-04/pdf/HackingHealth_Hamilton_2019.pdf)
 
