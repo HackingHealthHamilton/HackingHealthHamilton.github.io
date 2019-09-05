@@ -23,7 +23,7 @@ Each year, our sponsors help Hacking Hacking Hamilton unite emerging healthcare 
 
 Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca.com">Contact us</a>
 
-![sponsor_package_2019](/img/2019-09-04/sponsor_package_2019.png =250x)
+<img src="/img/2019-09-04/sponsor_package_2019.png" alt="Sponsor Package" width="200"/>
 {: .text-center}
 [Sponsor Package](/img/2019-09-04/pdf/HackingHealth_Hamilton_2019.pdf)
 
