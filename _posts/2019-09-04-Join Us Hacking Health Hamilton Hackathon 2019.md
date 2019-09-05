@@ -22,6 +22,7 @@ Here, we want to make it easy for anyone to dream big. Hacking Health fosters co
 Each year, our sponsors help Hacking Hacking Hamilton unite emerging healthcare professionals, developers, designers, businessman, and educators. Our sponsors make it possible for participants to present and build something they're proud of.
 
 Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca.com">Contact us</a>
+<hr>
 [Sponsor Package](/img/2019-09-04/pdf/HackingHealth_Hamilton_2019.pdf)
 
 
