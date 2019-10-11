@@ -29,7 +29,7 @@ Riya has persisted and has been supported by the Mohawk MEDIC lab, the Universit
 Find out more:
 
 - [Grade 9 Science Fair Wunderkind Creates a Smarter White Cane](https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/16419/Grade-9-Science-Fair-Wunderkind-Creates-a-Smarter-White-Cane.aspx) on engineering.com
-- [Taking an Unconventional Path to Unconventional Success | Riya Karumanchi | TEDxBrampton](https://www.youtube.com/watch?v=Qg9B1PXzs10) TEDx talk
+- [Taking an Unconventional Path to Unconventional Success Riya Karumanchi TEDxBrampton](https://www.youtube.com/watch?v=Qg9B1PXzs10) TEDx talk
 - [CBC: How a 15-year-old entrepreneur is reinventing the standard white cane with smart technology](https://www.cbc.ca/news/canada/toronto/smart-cane-company-1.4806713)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The people’s choice award goes to Smart Cane <a href="https://twitter.com/hashtag/HackingHealth?src=hash&amp;ref_src=twsrc%5Etfw">#HackingHealth</a> <a href="https://twitter.com/hashtag/h4ck17?src=hash&amp;ref_src=twsrc%5Etfw">#h4ck17</a> <a href="https://t.co/20qRvk8yK6">pic.twitter.com/20qRvk8yK6</a></p>&mdash; HH Hamilton (@HHHamOnt) <a href="https://twitter.com/HHHamOnt/status/858772886890455040?ref_src=twsrc%5Etfw">April 30, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
