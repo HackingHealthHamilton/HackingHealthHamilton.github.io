@@ -10,7 +10,7 @@ lead_text: 'Using Health Hackathon Sparkboard 2019 to create or join a team'
 
 Creat or join a team for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10).
 <hr>
-### 1 Create a team at[Health Hackathon Sparkboard 2019](https://hhhamilton2019.sparkboard.com/)
+### 1 Create a team at [Health Hackathon Sparkboard 2019](https://hhhamilton2019.sparkboard.com/)
 ![Sparkboardpage2](/img/sparkboard2019/mainpage.png)
 If you already have a account, please click ***Sign In***. You can use Google account to sign in. Otherwise, please click ***New Account*** to create one. 
 <hr>
@@ -53,7 +53,7 @@ You will find your project in the main page.
 ![createnewteam6](/img/sparkboard2019/aftercreate2.png)
 
 <hr>
-### 2.Join a exist team
+### 2.Join a specific team
 After login Health Hackathon Sparkboard 2019, find your favorite team and select. 
 
 You will find selected project in the main page.
