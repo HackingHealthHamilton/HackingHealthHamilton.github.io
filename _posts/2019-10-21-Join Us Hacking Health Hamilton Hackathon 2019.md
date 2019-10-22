@@ -67,7 +67,8 @@ Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca">Contact us<
 ### [ Health Hackathon 2019-Hamilton Sparkboard_Create your project or team](https://hhhamilton2019.sparkboard.com/)
 <hr>
 ### [ Using Sparkboard2019 to Create a project or join a specific team](https://hhhamilton.ca/Use-Hackathon2019-Sparkboard.html)
-![sparkboard](/img/sparkboard2019/aftercreate2.png)
+<iframe width="560" height="315" src="https://play.vidyard.com/zFvtSR46HNYnbef3y8p7Ha?disable_analytics=0&amp;preload=auto&amp;controller=hubs&amp;action=show&amp;type=inline&amp;v=4.2.16&amp;disable_popouts=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{: .text-center}
 
 
 
