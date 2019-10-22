@@ -17,13 +17,32 @@ Here, we want to make it easy for anyone to dream big. Hacking Health fosters co
 <hr>
 ### Our Mentors
 
+[Nav Kaur, Ph.D.](https://www.linkedin.com/in/navkaur25/?originalSubdomain=ca)
+<br><br>
+
+[Steve Pereira](https://www.linkedin.com/in/devopsto?originalSubdomain=ca)
+<br><br>
+
+[Zack ZL technovations](https://www.linkedin.com/in/zackmuqtadir/?originalSubdomain=ca)
+<br><br>
+
+[Vinai Bhagirath](https://www.linkedin.com/in/vinai-bhagirath-a159274a/?originalSubdomain=ca)
+<br><br>
+
+[Dora Laurent](https://www.linkedin.com/in/dora-laurent-6ba473110/?trk=pub-pbmap&originalSubdomain=ca)
+<br><br>
 
 
 ### Judges
-![Robert DeWitte](/img/2019hackathon/judges/Robert_DeWitte.jpg)
-{: .text-center}
-***[Robert DeWitte, Ph.D.]***(https://www.linkedin.com/in/robert-dewitte/)
 
+[Robert DeWitte, Ph.D.](https://www.linkedin.com/in/robert-dewitte/)
+<br><br>
+
+[Maggie Bergeron](https://www.linkedin.com/in/maggiebergeron/)
+<br><br>
+
+[Riya Karumanchi](http://mysmartcane.ca/)
+<br><br>
 
 ### [Join US](https://www.eventbrite.ca/e/hacking-health-hamilton-hackathon-2019-tickets-60104994657)
 <hr>
