@@ -5,7 +5,7 @@ date: 2019-09-03
 categories: Health Hackathon Information
 lead_text: 'Using Health Hackathon Sparkboard 2019 to create or join a team'
 ---
-![Sparkboardpage](/img/sparkboard2019/page1.png)
+<iframe width="560" height="315" src="https://play.vidyard.com/zFvtSR46HNYnbef3y8p7Ha?disable_analytics=0&amp;preload=auto&amp;controller=hubs&amp;action=show&amp;type=inline&amp;v=4.2.16&amp;disable_popouts=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {: .text-center}
 
 Creat or join a team for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10).
