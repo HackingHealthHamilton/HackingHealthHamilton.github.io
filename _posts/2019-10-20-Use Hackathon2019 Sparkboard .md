@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: "Using Health Hackathon Sparkboard 2019"
-date: 2019-09-03
+date: 2019-10-20
 categories: Health Hackathon Information
 lead_text: 'Using Health Hackathon Sparkboard 2019 to create or join a team'
 ---
