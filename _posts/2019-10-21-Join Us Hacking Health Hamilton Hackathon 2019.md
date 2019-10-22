@@ -14,6 +14,15 @@ Join us for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10).
 Pitch ideas, form teams, get advice from experts, and build a useable solution to address the users' problems over the course of a weekend. Sunday afternoon demo your solution in front of a panel of judges for a chance of winning some fantastic prizes! 
 
 Here, we want to make it easy for anyone to dream big. Hacking Health fosters collaborative innovation by engaging key groups of stakeholders, such as healthcare professionals, developers, designers, entrepreneurs, and patients, to create human-centric solutions to improve the health of our communities. Our weekend hackathons are fun, intense, hands-on events where small teams tackle tough problems in a supportive community of peers and mentors.
+<hr>
+### Our Mentors
+
+
+
+### Judges
+![Robert DeWitte](/img/2019hackathon/judges/Robert_DeWitte.jpg)
+{: .text-center}
+***[Robert DeWitte, Ph.D.]***(https://www.linkedin.com/in/robert-dewitte/)
 
 
 ### [Join US](https://www.eventbrite.ca/e/hacking-health-hamilton-hackathon-2019-tickets-60104994657)
