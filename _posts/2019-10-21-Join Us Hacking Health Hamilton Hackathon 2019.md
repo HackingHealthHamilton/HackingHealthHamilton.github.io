@@ -5,7 +5,7 @@ date: 2019-10-21
 categories: Health Hackathon Information
 lead_text: 'Join us on Nov 8-10 at McMaster Innovation Park'
 ---
-![Lauren](/img/2019-09-04/hackathon2019_2.png)
+<img class = "small2" src="/img/2019-09-04/hackathon2019_2.png" alt="hhh2019" width="150"/>
 {: .text-center}
 
 Join us for Hacking Health Hamilton Hackathon 2019 (Nov 8- Nov 10).
@@ -54,7 +54,7 @@ Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca">Contact us<
 [Sponsor Package](/img/2019-09-04/pdf/HackingHealth_Hamilton_2019.pdf)
 
 
-<img src="/img/2019-09-04/sponsor_package_2019.png" alt="Sponsor Package" width="250"/>
+<img class = "small2" src="/img/2019-09-04/sponsor_package_2019.png" alt="Sponsor Package" width="250"/>
 {: .text-center}
 <hr>
 
@@ -70,6 +70,14 @@ Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca">Contact us<
 <iframe width="560" height="315" src="https://play.vidyard.com/zFvtSR46HNYnbef3y8p7Ha?disable_analytics=0&amp;preload=auto&amp;controller=hubs&amp;action=show&amp;type=inline&amp;v=4.2.16&amp;disable_popouts=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {: .text-center}
 
+
+<style>
+    img.small2 {
+        height:50%;
+        width: 50%;
+        }
+</style>
+    
 
 
 
