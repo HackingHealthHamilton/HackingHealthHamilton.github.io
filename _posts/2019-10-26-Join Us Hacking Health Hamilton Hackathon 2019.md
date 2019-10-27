@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: "Join Us: Hacking Health Hamilton Hackathon 2019"
-date: 2019-10-21
+date: 2019-10-26
 categories: Health Hackathon Information
 lead_text: 'Join us on Nov 8-10 at McMaster Innovation Park'
 ---

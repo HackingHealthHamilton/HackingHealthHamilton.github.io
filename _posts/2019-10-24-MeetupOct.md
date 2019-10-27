@@ -7,7 +7,7 @@ lead_text: 'Value stream mapping with Steve Pereira'
 ---
 <img class = "small2" src="/img/2019-10-24/201910banner.png" alt="meetup201910" width="150"/>
 {: .text-center}
-.
+Oct. Meetup Newsletter
 <hr>
 ### Details
 
