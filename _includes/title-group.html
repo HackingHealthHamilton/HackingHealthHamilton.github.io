@@ -40,4 +40,33 @@
             {{ site.data.global.description }}
         {% endif %}
     </p>
+
+    <!-- add timer ui-->
+    <div class = "timecountdown">
+        <h2> <a href="https://www.eventbrite.ca/e/hacking-health-hamilton-hackathon-2019-tickets-60104994657"> Health Hackathon 2019 @ Nov.8-10, 2019 </a></h2>
+        <div id = "timer"></div>
+   </div>
+
 </div>
+
+<!-- add timer ui--@begin-->
+<style type= "text/css">
+    .timecountdown h2
+    { 
+        font-family:Helvetica, Microsoft YaHei, Arial, sans-serif; 
+        font-size:18px;
+        margin-bottom:5px; 
+        color:#0526fa;
+    }
+    .timecountdown #timer
+    {
+        font-family:Helvetica, Microsoft YaHei, Arial, sans-serif; 
+        font-size:18px;
+        color:#151515;
+        font-weight:bold;
+        width:100%;
+    }
+</style>
+
+<script type = "text/javascript" src = "timer.js"></script>
+<!-- add timer ui--@end-->
