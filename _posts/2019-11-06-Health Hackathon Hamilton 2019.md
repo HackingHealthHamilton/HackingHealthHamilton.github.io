@@ -252,7 +252,7 @@ Each year, our sponsors help Hacking Hacking Hamilton unite emerging healthcare 
 <br>
 Interested in sponsoring? <a href="mailto:hamilton@hackinghealth.ca">Contact us</a>
 <br>
-<img class = "center8" src="https://hhhamilton.ca/img/2019hackathon/sponsors/Local%20sponsors%20for%20online.png" alt="sponsor" width="150"/>
+<img class = "center8" src="https://hhhamilton.ca/img/2019hackathon/sponsors/localsponsors.png" alt="sponsor" width="150"/>
 
 
 ### @McMaster Innovation Park
