@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: "Hacking Health Hamilton Hackathon 2019"
-date: 2019-11-01
+date: 2019-11-06
 categories: Health Hackathon Information
 lead_text: 'Join us on Nov 8-10 at McMaster Innovation Park'
 ---
@@ -42,8 +42,8 @@ Here, we want to make it easy for anyone to dream big. Hacking Health fosters co
 						<td style="text-align: left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#663399" style="text-decoration: none;"><strong>Registration, Pitch Clinic</strong></font></td>
 					</tr>
 					<tr>
-						<td style="text-align: left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#696969"><strong>Team Formation</strong>&nbsp;&nbsp;<br>
-						5:00 PM - 10:00 PM</font></td>
+						<td style="text-align: left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#696969"><strong>Opening Ceremony - Team Formation</strong>&nbsp;&nbsp;<br>
+						6:00 PM - 10:00 PM</font></td>
 					</tr>
 				</tbody>
 			</table>
@@ -71,7 +71,7 @@ Here, we want to make it easy for anyone to dream big. Hacking Health fosters co
 					</tr>
 					<tr>
 						<td style="text-align: left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#696969"><strong>Hack </strong>&nbsp;<br>
-						9:00 AM - 4:00 PM</font></td>
+						8:00 AM - 10:00 PM</font></td>
 					</tr>
 				</tbody>
 			</table>
@@ -99,7 +99,7 @@ Here, we want to make it easy for anyone to dream big. Hacking Health fosters co
 					</tr>
 					<tr>
 						<td style="text-align: left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#696969"><strong>Hack - Demo - Award</strong>&nbsp;| 3 Sessions<br>
-						9:00 AM - 4:00 PM</font></td>
+						8:00 AM - 5:00 PM</font></td>
 					</tr>
 				</tbody>
 			</table>
