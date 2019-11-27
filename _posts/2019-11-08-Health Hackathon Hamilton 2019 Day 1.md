@@ -187,14 +187,13 @@ Self Diagnosing Skin Irregulars
 [RadiAssist](https://hhhamilton2019.sparkboard.com/project/5dc5fe225ee40f0026169a21)
 <br>An AI-helper to improve radiologist workflow.
 <br>RadiAssist is a AI based solution that will keep radiologists in the loop, increasing its success of being used in real hospitals. It will improve radiologist workflow organizing scans based on predicted abnormality, so the radiologist can dedicate their time to these scans but still relies on radiologist to make the final diagnosis. It also allows the radiologist to ask questions as to why it believes that that there is an abnormality in the scan, giving the radiologist an insight into its thinking process.
-<img class = "small3" src="" alt="pitch3.png" 
+<img class = "small2" src="/img/2019hackathon/photo/Day1/RadiAssist_team1.png" alt="RadiAssistg" width="150"/> 
 <hr>
 
 [HealthMonitor System - Prader willi syndrome usecase](https://hhhamilton2019.sparkboard.com/project/5dc616b75ee40f0026169a59)
 <br>"Life is in the breath. He who half breathes half lives."
-<br>If you have allergies, asthma, or other breathing problems, this proverb may sound very familiar.
+<br>If you have allergies, asthma, or other breathing problems, this proverb may sound very familiar. This project will build a breathing problem identification (classification) system by using audio-recording device and deep-learn model at a realtime level.
 <br>
-<img class = "small3" src="" alt="pitch3.png" 
 <hr>
 
 ### Create or join a team.
