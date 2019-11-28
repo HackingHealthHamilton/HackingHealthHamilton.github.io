@@ -50,7 +50,7 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 			</td>
 		</tr>
 		<tr>
-			<td style="background: #663399;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="80">
+			<td style="background: #f50b07;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="80">
 			<table align="center" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 				<tbody>
 					<tr>
@@ -78,7 +78,7 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 			</td>
 		</tr>
 		<tr>
-			<td style="background: #f50b07;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="80">
+			<td style="background: #663399;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="80">
 			<table align="center" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 				<tbody>
 					<tr>
@@ -114,14 +114,21 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 ### Saturday (Nov. 9)
 
 ***Design Thinking Workshop***
-[Dr.Robert Fleisig](https://www.eng.mcmaster.ca/msbe/people/faculty/robert-fleisig) is a permanent teaching professor in the Walter G. Booth School of Engineering Practice and Technology (W Booth School) and Engineering. Dr. Robert Fleisig introduced Design Thinking, and encouraged participants to play fun games to understand Design Thinking.
+<br>
+[Dr.Robert Fleisig](https://www.eng.mcmaster.ca/msbe/people/faculty/robert-fleisig) is a permanent teaching professor in the Walter G. Booth School of Engineering Practice and Technology (W Booth School) and Engineering. 
+<br> Here, Dr. Robert Fleisig introduced Design Thinking, and encouraged participants to play fun games to understand Design Thinking.
 <img class = "small2" src="/img/2019hackathon/photo/Day2/designthink_02.jpg" alt="workshop1" width="150"/>
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/designthink_0.png" alt="" width="150"/>
 <br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/designthink_2.png" alt="" width="150"/>
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/designthink_04.jpg" alt="" width="150"/>
+<br>
 <hr>
 
 One of our hackers, Johar is one high school (grade 9) from Mississauga. He has showed a great motivation for hacking health.
+<br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/highschool_student.jpg" alt="johar" width="150"/>
 <br>
 <hr>
@@ -130,6 +137,7 @@ One of our hackers, Johar is one high school (grade 9) from Mississauga. He has 
 <br>
 
 ***Our Hackers***
+<br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_2.png" alt="hacker2" width="150"/>
 <br>
 
