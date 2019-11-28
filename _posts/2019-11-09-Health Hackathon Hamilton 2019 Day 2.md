@@ -117,6 +117,7 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 <br>
 [Dr.Robert Fleisig](https://www.eng.mcmaster.ca/msbe/people/faculty/robert-fleisig) is a permanent teaching professor in the Walter G. Booth School of Engineering Practice and Technology (W Booth School) and Engineering. 
 <br> Here, Dr. Robert Fleisig introduced Design Thinking, and encouraged participants to play fun games to understand Design Thinking.
+<br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/designthink_02.jpg" alt="workshop1" width="150"/>
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/designthink_0.png" alt="" width="150"/>
@@ -127,7 +128,7 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 <br>
 <hr>
 
-One of our hackers, Johar is one high school (grade 9) from Mississauga. He has showed a great motivation for hacking health.
+One of our hackers, Johar is one high school (grade 9) students from Mississauga. He has showed a great motivation for hacking health.
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/highschool_student.jpg" alt="johar" width="150"/>
 <br>
