@@ -113,8 +113,6 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 <hr>
 ### Saturday (Nov. 9)
 <br>
-<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__14.jpg" alt="teamwithmentor" width="150"/>
-<hr>
 ***Design Thinking Workshop***
 <br>
 [Dr.Robert Fleisig](https://www.eng.mcmaster.ca/msbe/people/faculty/robert-fleisig) is a permanent teaching professor in the Walter G. Booth School of Engineering Practice and Technology (W Booth School) and Engineering. 
@@ -153,10 +151,6 @@ One of our hackers, Johar is one high school (grade 9) students from Mississauga
 <hr>
 
 <br>
-<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_2.png" alt="hacker2" width="150"/>
-<br>
-
-<br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__1.png" alt="hacker2" width="150"/>
 <br>
 
@@ -184,11 +178,13 @@ One of our hackers, Johar is one high school (grade 9) students from Mississauga
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__12.png" alt="hacker2" width="150"/>
 <br>
 
-
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__11.png" alt="hacker2" width="150"/>
 <br>
 
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_2.png" alt="hacker2" width="150"/>
+<br>
 
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_4.png" alt="hackers2" width="150"/>
 <br>
