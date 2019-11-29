@@ -112,7 +112,9 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 
 <hr>
 ### Saturday (Nov. 9)
-
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__14.jpg" alt="teamwithmentor" width="150"/>
+<hr>
 ***Design Thinking Workshop***
 <br>
 [Dr.Robert Fleisig](https://www.eng.mcmaster.ca/msbe/people/faculty/robert-fleisig) is a permanent teaching professor in the Walter G. Booth School of Engineering Practice and Technology (W Booth School) and Engineering. 
@@ -128,6 +130,18 @@ Design Thinking Workshop - Dr. Robert Fleisig.
 <br>
 <hr>
 
+***Mentors***
+<br> Our mentors are experienced and trusted advisors and can truly changelives. This year, we have six mentors dedicate their time to helping hackers get the ball rolling and push through obstacles in their way. A mentor can guide a team and help them create a working prototype, do business analysis.
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/mentos_1.jpg" alt="mentor1" width="150"/>
+<br>
+A hacker team is discussing with mentors.
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/team_1.jpg" alt="teamwithmentor" width="150"/>
+<hr>
+<br>
+***Our Hackers***
+<br>
 One of our hackers, Johar is one high school (grade 9) students from Mississauga. He has showed a great motivation for hacking health.
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/highschool_student.jpg" alt="johar" width="150"/>
@@ -136,17 +150,67 @@ One of our hackers, Johar is one high school (grade 9) students from Mississauga
 
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_1.png" alt="phoneimg" width="150"/>
 <br>
+<hr>
 
-***Our Hackers***
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_2.png" alt="hacker2" width="150"/>
 <br>
 
-<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_4.png" alt="register2" width="150"/>
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__1.png" alt="hacker2" width="150"/>
 <br>
 
-<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_banner.png" alt="register2" width="150"/>
 <br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__3.png" alt="hacker2" width="150"/>
+<br>
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__4.png" alt="hacker2" width="150"/>
+<br>
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__6.png" alt="hacker2" width="150"/>
+<br>
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__8.png" alt="hacker2" width="150"/>
+<br>
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__9.png" alt="hacker2" width="150"/>
+<br>
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__12.png" alt="hacker2" width="150"/>
+<br>
+
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__11.png" alt="hacker2" width="150"/>
+<br>
+
+
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_4.png" alt="hackers2" width="150"/>
+<br>
+
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2_banner.png" alt="hackers2" width="150"/>
+<br>
+
+<hr>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/cups.jpg" alt="cups" width="150"/>
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hhh_2.jpg" alt="hhh_service2" width="150"/>
+<br>
+
+### Hacking Health Hamilton
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__7.png" alt="hacker2" width="150"/>
+<br>
+
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day2/hack2019__14.png" alt="hacker2" width="150"/>
+<br>
+
 
 ### Sponsors
 
