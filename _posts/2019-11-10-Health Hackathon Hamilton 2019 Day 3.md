@@ -125,9 +125,6 @@ The innovative ecosystem found in Hamilton supplies its community with the resou
 <img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_6.jpg" alt="demo1" width="150"/>
 <br>
 <hr>
-
-### Demo.
-<br>
 <br>
 [Digitp](https://hhhamilton2019.sparkboard.com/project/5dc6045a5ee40f0026169a32)
 <br>A smart medical alert bracelet for the 21st century.
@@ -178,7 +175,7 @@ Using devices such as laptops and smartphones, detect changes in interaction spe
 <br>
 Self Diagnosing Skin Irregulars
 <br>
-<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_27.jpg" alt="webme_demo" width="150"/>
+<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_29a.jpg" alt="webme_demo" width="150"/>
 <hr>
 
 [RadiAssist](https://hhhamilton2019.sparkboard.com/project/5dc5fe225ee40f0026169a21)
@@ -234,7 +231,7 @@ Utilizing crowd sourced data to facilitate community empowerment and assisting v
 <hr>
 ### Hacking Health Hamilton
 <br>
-<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_15.jpg" alt="DrLockker" width="150"/>
+<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_26.jpg" alt="DrLockker" width="150"/>
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_15.jpg" alt="DrLockker" width="150"/>
 <br>
@@ -245,27 +242,36 @@ Utilizing crowd sourced data to facilitate community empowerment and assisting v
 
 
 ### Awards
-*** 1st Place***
+** 1st Place : InDrugAction **
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_30.jpg" alt="1stplace" width="150"/>
 <br>
 
-*** 2nd Place***
+** 2nd Place: AI in Radiology**
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_28.jpg" alt="2ndplace" width="150"/>
 <br>
 
-*** 3rd Place***
+** 3rd Place: ClinSync**
 <br>
-<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_37.jpg" alt="3rdplace" width="150"/>
+<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_27.jpg" alt="3rdplace" width="150"/>
 <br>
 
-*** People's Choice Award***
+** People's Choice Award: HealthMonitor System**
 <br>
 <img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_29.jpg" alt="peoplechoice" width="150"/>
 <br>
 
-
+### Thanks
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_31.jpg" alt="familty1" width="150"/>
+<br>
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_32.jpg" alt="familty2" width="150"/>
+<br>
+<br>
+<img class = "small2" src="/img/2019hackathon/photo/Day3/hhhday3_4.jpg" alt="hhh_ehealth" width="150"/>
+<br>
 <hr>
 ### Sponsors
 <br>
