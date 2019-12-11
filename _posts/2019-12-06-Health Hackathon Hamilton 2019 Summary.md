@@ -23,15 +23,15 @@ Hamilton is home to internationally-recognized, research-intensive educational i
 The innovative ecosystem found in Hamilton supplies its community with the resources and opportunities required to transform ideas into prototypes. The Hacking Health Hamilton Hackathon will leverage expertise from different disciplines stemming from Michael G. DeGroote School of Medicine, Degroote School of Business, and Faculties of Engineering to encourage students to form interdisciplinary groups.
 
 ### Summary
-![page1](/img/2019hackathon/photo/summary/page1.jpg)
+![page1](/img/2019hackathon/photo/summary/page1.png)
 <hr>
-![page2](/img/2019hackathon/photo/summary/page2.jpg)
+![page2](/img/2019hackathon/photo/summary/page2.png)
 <hr>
-![page3](/img/2019hackathon/photo/summary/page3.jpg)
+![page3](/img/2019hackathon/photo/summary/page3.png)
 <hr>
-![page4](/img/2019hackathon/photo/summary/page4.jpg)
+![page4](/img/2019hackathon/photo/summary/page4.png)
 <hr>
-![page5](/img/2019hackathon/photo/summary/page5.jpg)
+![page5](/img/2019hackathon/photo/summary/page5.png)
 <hr>
 <style>
     img.small2 {
